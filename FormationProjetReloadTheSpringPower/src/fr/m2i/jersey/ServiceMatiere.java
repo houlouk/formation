@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import fr.acceis.jpa.jpa.IMatiereDao;
+import dao.IMatiereDao;
 import model.Matiere;
 
 

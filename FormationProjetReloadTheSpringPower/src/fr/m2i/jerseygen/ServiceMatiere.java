@@ -13,8 +13,8 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import fr.acceis.jpa.jpa.Dao;
-import fr.acceis.jpa.jpa.MatiereDao;
+import dao.Dao;
+import dao.MatiereDao;
 import model.Matiere;
 
 

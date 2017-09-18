@@ -8,10 +8,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import fr.acceis.jpa.jpa.CursusDao;
-import fr.acceis.jpa.jpa.Dao;
-import fr.acceis.jpa.jpa.ICursusDao;
-import fr.acceis.jpa.jpa.MatiereDao;
+import dao.CursusDao;
+import dao.Dao;
+import dao.ICursusDao;
+import dao.MatiereDao;
 import model.Matiere;
 
 /**

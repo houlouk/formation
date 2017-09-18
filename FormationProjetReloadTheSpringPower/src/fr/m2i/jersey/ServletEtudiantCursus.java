@@ -10,10 +10,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import fr.acceis.jpa.jpa.CursusDao;
-import fr.acceis.jpa.jpa.Dao;
-import fr.acceis.jpa.jpa.EtudiantDao;
-import fr.acceis.jpa.jpa.IEtudiantDao;
+import dao.CursusDao;
+import dao.Dao;
+import dao.EtudiantDao;
+import dao.IEtudiantDao;
 import model.Cursus;
 
 /**

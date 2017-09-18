@@ -14,7 +14,7 @@ import javax.persistence.criteria.Root;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 
-import fr.acceis.jpa.jpa.HibernateUtil;
+import dao.HibernateUtil;
 import model.Cours;
 import model.Creneau;
 import model.Cursus;

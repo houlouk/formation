@@ -1,4 +1,4 @@
-package fr.acceis.jpa.jpa;
+package dao;
 
 import fr.m2i.jersey.ISalleDao;
 import model.Salle;

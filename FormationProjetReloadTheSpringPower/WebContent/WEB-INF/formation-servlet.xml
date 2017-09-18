@@ -20,24 +20,24 @@ xsi:schemaLocation="http://www.springframework.org/schema/beans
 <mvc:resources mapping="/webjars/**" location="classpath:/META-INF/resources/webjars/"/>
 
 
-<bean id="daoEtudiant" class="fr.acceis.jpa.jpa.EtudiantDao">
+<bean id="daoEtudiant" class="dao.EtudiantDao">
 	
 	</bean>
 	
 	
-	<bean id="daoSalle" class="fr.acceis.jpa.jpa.SalleDao">
+	<bean id="daoSalle" class="dao.SalleDao">
 	
 	</bean>
 	
-<bean id="daoProfesseur" class="fr.acceis.jpa.jpa.ProfesseurDao">
+<bean id="daoProfesseur" class="dao.ProfesseurDao">
 	
 	</bean>
 	
-<bean id="daoCursus" class="fr.acceis.jpa.jpa.CursusDao">
+<bean id="daoCursus" class="dao.CursusDao">
 	
 	</bean>
 	
-	<bean id="daoMatiere" class="fr.acceis.jpa.jpa.MatiereDao">
+	<bean id="daoMatiere" class="dao.MatiereDao">
 	
 	</bean>
 	

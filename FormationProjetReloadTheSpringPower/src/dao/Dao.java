@@ -1,4 +1,4 @@
-package fr.acceis.jpa.jpa;
+package dao;
 
 import java.util.List;
 

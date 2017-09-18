@@ -1,4 +1,4 @@
-package fr.acceis.jpa.jpa;
+package dao;
 
 import java.io.Serializable;
 import java.util.List;
